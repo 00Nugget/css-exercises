@@ -1,10 +1,11 @@
-<style>
+/* styles.css */
+
 div {
     background-color: red;
     color: white;
     font-size: 40px;
     font-family: 'Times New Roman', serif;
+    font-weight: 600;
+    text-align: center;
 }
 
-
-</style>
