@@ -1,0 +1,14 @@
+/*style.css*/
+
+.default-button {
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+.first-element {
+    background-color: hsl(0, 0%, 0%);
+    color: hsl(0, 100%, 100%);
+}
+.second-element {
+    background-color: hsl(60, 100%, 50%);
+    color: hsl(0, 0, 0);
+}
